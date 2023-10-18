@@ -1,0 +1,7 @@
+01/Wydział Humanistyczny
+02/Wydział Nauk Przyrodniczych
+03/Wydział Nauk Społecznych
+04/Wydział Nauk Ścisłych i Technicznych
+05/Wydział Prawa i Administracji
+06/Wydział Sztuki i Nauk o Edukacji
+07/Wydział Teologiczny

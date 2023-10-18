@@ -1,0 +1,8 @@
+01/Chemia
+02/Fizyka
+03/Geologia stosowana
+04/Informatyka
+05/Inżynieria biomedyczna
+06/Inżynieria materiałowa
+07/Mechatronika
+08/Mikro i nanotechnologie

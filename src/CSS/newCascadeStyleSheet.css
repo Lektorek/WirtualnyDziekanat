@@ -1,0 +1,18 @@
+
+.table-row-cell:selected {
+    -fx-background-color: steelblue;
+}
+
+.table-row-cell {
+    -fx-background-color: rgba(0,0,0,0.7);
+    -fx-font-weight:bold;
+    -fx-text-fill: whitesmoke;
+}
+
+.table-row-cell{
+    -fx-text-fill: black;
+}
+
+.table-column {
+     -fx-text-fill: whitesmoke;
+}
